@@ -4,4 +4,5 @@
     <project path="device/lge/vm701" name="lgics/cm_device_lge_p500" remote="github" revision="aokp-jb-mr1" />
     <project path="kernel/lge/msm7x27" name="lgics/lge-kernel-msm7x27" remote="github" revision="cm-10.1" />
     <project path="vendor/lge" name="lgics/cm_vendor_lge" remote="github" revision="cm-10.1" />
+    <project path="vendor/aokp" name="rhg/vendor_aokp" remote="github.com" />
 </manifest>
